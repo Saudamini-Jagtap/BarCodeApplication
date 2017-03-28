@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp" >
+    android:background="@drawable/bg_gradient"
+   <TableRow
+        android:id="@+id/itemDetails"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="5dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/delete"
+        android:layout_width="match_parent">
+        <TextView
+            android:id="@+id/itemId"
+            android:text="as"
+            android:layout_width="wrap_content"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:paddingRight="10dp"/>
+       <TextView
+           android:id="@+id/itemname"
+           android:textAlignment="center"
+           android:layout_width="130dp"
+           android:textColor="@android:color/white"
+           android:paddingRight="10dp"/>
+       <TextView
+           android:id="@+id/itembarcode"
+           android:textAlignment="center"
+           android:layout_width="120dp"
+           android:textColor="@android:color/white"
+           android:paddingRight="10dp"/>
+       <TextView
+           android:id="@+id/itemprice"
+           android:textAlignment="center"
+           android:layout_width="40dp"
+           android:textColor="@android:color/white"/>
+   </TableRow>
+   <ImageView
+        android:id="@+id/delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/x_mark_16"/>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/res/merged/debug/xml/zxinglegacy_preferences.xml",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/xml/zxinglegacy_preferences.xml"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/res/merged/debug/xml/zxing_preferences.xml",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/xml/zxing_preferences.xml"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/res/merged/debug/xml/zxing_preferences.xml",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/xml/zxing_preferences.xml"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/res/merged/debug/xml/zxinglegacy_preferences.xml",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/xml/zxinglegacy_preferences.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<!--
+  Copyright 2012 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">BarCode Application</string>
+
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="activity_name">%1$s</string>
+    <string name="found_item_name">Item Name: %1$s</string>
+    <string name="scancode">Barcode: %1$s</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="action_settings">Settings</string>
+    <string name="scannow">SCAN NOW</string>
+    <string name="tap_to_scan">Tap on to scan the code</string>
+    <string name="scan_bar_code">Scan a Bar Code</string>
+    <string name="addToList">Click to add to the Item List</string>
+    <string name="dialogMessgage">Select the Item category</string>
+</resources>

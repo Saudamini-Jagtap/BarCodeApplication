@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/res/merged/debug/drawable-hdpi/ico_mic.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/src/main/res/drawable-hdpi/ico_mic.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/res/merged/debug/drawable-hdpi/common_ic_googleplayservices.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/common_ic_googleplayservices.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ico_mic.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/EffectiveNavigation1/app/src/main/res/drawable-hdpi/ico_mic.png"
+    },
+    {
+        "merged": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/sjaltran/AndroidStudioProjects/05_withDialog/BarCodeApplication/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

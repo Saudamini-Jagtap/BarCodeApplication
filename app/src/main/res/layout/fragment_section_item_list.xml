@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+   <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/itemlist"
+        android:textSize="18dp"
+        android:textStyle="normal"
+        android:textColor="@color/white"
+        android:text="Items List"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"/>
+    <ExpandableListView
+        android:id="@+id/expandable_list"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="40dp">
+    </ExpandableListView>
+
+    <!--<ScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" >-->
+        <!--<TableLayout-->
+            <!--android:id="@+id/tableLayout1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_gravity="top|center_horizontal"-->
+            <!--android:layout_marginTop="40dp"-->
+            <!--android:padding="10dp"-->
+            <!--android:shrinkColumns="*"-->
+            <!--android:stretchColumns="*" >-->
+        <!--</TableLayout>-->
+    <!--</ScrollView>-->
+    <!--<ImageButton-->
+        <!--android:id="@+id/fab"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="end|bottom"-->
+        <!--android:layout_margin="20dp"-->
+        <!--android:src="@android:drawable/ic_delete" />-->
+    <!--<TextView-->
+        <!--android:text="Click to delete item from List"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:id="@+id/deleteitemsg"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="end|bottom"-->
+        <!--android:layout_marginEnd="100dp"-->
+        <!--android:layout_marginBottom="35dp"-->
+        <!--/>-->
+
+</FrameLayout>
